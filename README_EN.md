@@ -2,11 +2,7 @@
 
 > A self-hosted, privacy-first personal workspace — notes, tasks, finances, habits, goals and a lunar calendar. All in one elegant PWA.
 
-![GUI](screenshots/gui.png)
-
----
-
-> 🌐 **Language note:** This app is currently available in German only. An English version is planned for a future update. In the meantime, you can use your browser's built-in translation feature (Google Chrome: right-click → Translate to English) to navigate the interface.
+![GUI](Screenshots/gui.png)
 
 ---
 
@@ -14,7 +10,7 @@
 
 The Benne Board is a personal all-in-one workspace that you host on your own server — for yourself, your family and friends. No cloud, no subscriptions, no third-party servers. Your data belongs to you.
 
-The app runs as a Progressive Web App (PWA), meaning it works in any browser and can be installed on your smartphone like a native app. The backend runs on [PocketBase](https://pocketbase.io/), a lightweight self-hosted database with built-in user management.
+The app runs as a Progressive Web App (PWA), meaning it works in any browser and can be installed on your smartphone like a native app. The backend runs on [PocketBase](https://pocketbase.io/), a database with built-in admin UI, authentication and API.
 
 ---
 
@@ -68,7 +64,7 @@ The app runs as a Progressive Web App (PWA), meaning it works in any browser and
 
 | Notes | Tasks | Ledger | Calendar |
 |-------|-------|--------|----------|
-| ![Notes](screenshots/notes.png) | ![Tasks](screenshots/tasks.png) | ![Ledger](screenshots/ledger.png) | ![Calendar](screenshots/kalender.png) |
+| ![Notes](Screenshots/notes.png) | ![Tasks](Screenshots/Tasks.png) | ![Ledger](Screenshots/Hauptbuch.png) | ![Calendar](Screenshots/Kalender.png) |
 
 ---
 
@@ -98,9 +94,11 @@ Then open the admin panel and create your superuser account:
 http://YOUR-IP:8090/_/
 ```
 
+---
+
 ### Correct example
 
-![Example](screenshots/beispiel.png)
+![Example](Screenshots/4-collection.PNG)
 
 ---
 
@@ -232,4 +230,3 @@ GPL-3.0 © [Bennedict](https://github.com/Bennedict)
 ## Author
 
 Built by **Bennedict** & **Claude**
-
