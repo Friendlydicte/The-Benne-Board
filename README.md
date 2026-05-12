@@ -2,7 +2,7 @@
 
 > A self-hosted, privacy-first personal workspace — notes, tasks, finances, habits, goals and a lunar calendar. All in one elegant PWA.
 
-![GUI](screenshot/GUI.png)
+![GUI](Screenshots/gui.png)
 
 ---
 
@@ -73,7 +73,7 @@ Die App läuft als Progressive Web App (PWA) – das bedeutet sie ist im Browser
 
 | Notizen | Aufgaben | Hauptbuch | Kalender |
 |--------|----------|-----------|-----------|
-| ![Notes](screenshot/notes.png) | ![Tasks](screenshot/1-Tasks.png) | ![Ledger](screenshot/3-Ledger.png) | ![Kalender](screenshot/Kalender.png) |
+| ![Notes](Screenshots/notes.png) | ![Tasks](Screenshots/Tasks.png) | ![Ledger](Screenshots/Hauptbuch.png) | ![Kalender](Screenshots/Kalender.png) |
 
 ---
 
@@ -97,7 +97,7 @@ http://DEINE-IP:8090/_/
 
 ### Richtiges Beispiel
 
-![Beispiel](screenshot/4-collection.png)
+![Beispiel](Screenshots/4-collection.PNG)
 
 ---
 
