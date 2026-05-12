@@ -2,15 +2,15 @@
 
 > A self-hosted, privacy-first personal workspace — notes, tasks, finances, habits, goals and a lunar calendar. All in one elegant PWA.
 
-![GUI](screenshots/gui.png)
+![GUI](screenshot/GUI.png)
 
 ---
 
 ## Was ist das?
 
-The Benne Board ist ein persönlicher All-in-One Workspace den du auf deinem eigenen Server für dich und deine Familie & Freunde hosten. Keine Cloud, keine Abos, keine fremden Server. Deine Daten gehören dir.
+The Benne Board ist ein persönlicher All-in-One Workspace den du auf deinem eigenen Server für dich und deine Familie & Freunde hosten. Keine Cloud, keine Abos, keine fremden Server. Deine Daten bleiben bei dir.
 
-Die App läuft als Progressive Web App (PWA) – das bedeutet sie ist im Browser nutzbar und kann auf dem Smartphone wie eine native App installiert werden. Das Backend läuft mit [PocketBase](https://pocketbase.io/), einer schlanken self-hosted Datenbank mit eingebautem User-Management.
+Die App läuft als Progressive Web App (PWA) – das bedeutet sie ist im Browser nutzbar und kann auf dem Smartphone wie eine native App installiert werden. Das Backend läuft mit [PocketBase](https://pocketbase.io/) – einer Datenbank mit eingebauter Admin-UI, Auth und API.
 
 ---
 
@@ -73,7 +73,7 @@ Die App läuft als Progressive Web App (PWA) – das bedeutet sie ist im Browser
 
 | Notizen | Aufgaben | Hauptbuch | Kalender |
 |--------|----------|-----------|-----------|
-| ![Notes](screenshots/notes.png) | ![Tasks](screenshots/tasks.png) | ![Ledger](screenshots/ledger.png) | ![Kalender](screenshots/kalender.png)
+| ![Notes](screenshot/notes.png) | ![Tasks](screenshot/1-Tasks.png) | ![Ledger](screenshot/3-Ledger.png) | ![Kalender](screenshot/Kalender.png) |
 
 ---
 
@@ -97,7 +97,7 @@ http://DEINE-IP:8090/_/
 
 ### Richtiges Beispiel
 
-![Beispiel](screenshots/beispiel.png)
+![Beispiel](screenshot/4-collection.png)
 
 ---
 
@@ -228,4 +228,4 @@ GPL-3.0 © [Bennedict](https://github.com/Bennedict)
 
 ## Autor
 
-Gebaut von **Bennedict** & **Claude** 
+Gebaut von **Bennedict** & **Claude**
