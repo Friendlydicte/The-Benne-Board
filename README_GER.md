@@ -170,9 +170,14 @@ Im PocketBase Admin-Panel unter **Collections** folgende Collections mit diesen 
 
 ### Schritt 3 – API Rules setzen
 
-Für jede Collection im Tab **API Rules** bei allen 5 Regeln eintragen:
+Für jede Collection im Tab **API Rules** bei der create rule eintragen:
 ```
 @request.auth.id != ""
+
+Geben Sie für alle anderen Regeln Folgendes ein:
+
+@request.auth.id = user
+
 ```
 
 ---
