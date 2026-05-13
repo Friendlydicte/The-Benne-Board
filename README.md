@@ -171,9 +171,13 @@ In the PocketBase admin panel under **Collections**, create the following collec
 
 ### Step 3 – Set API Rules
 
-For each collection, go to the **API Rules** tab and enter the following for all 5 rules:
+For each collection, go to the **API Rules** tab and enter the following for the create rule:
 ```
 @request.auth.id != ""
+
+Enter the following for all the other rules:
+
+@request.auth.id = user
 ```
 
 ---
